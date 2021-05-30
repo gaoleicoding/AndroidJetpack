@@ -1,4 +1,4 @@
-package com.gl.androidjetpack
+package com.gl.jetpack
 
 import org.junit.Test
 

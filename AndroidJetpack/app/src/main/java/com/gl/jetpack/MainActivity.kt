@@ -1,4 +1,4 @@
-package com.gl.androidjetpack
+package com.gl.jetpack
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
